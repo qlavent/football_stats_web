@@ -83822,7 +83822,7 @@ c=A.b5(a7,A.N(q,a7,p).w.a.b/80,a7)
 b=A.N(q,a7,p).w
 a=A.N(q,a7,p).w
 a0=t.p
-b=A.a([c,A.cS(a7,a7,B.o,a7,a7,new A.cH(a7,B.eT,A.aq0(A.F(q).fx,A.N(q,a7,p).w.a.a/300),a7,a7,a7,B.cH),a7,a.a.a/6,a7,a7,a7,a7,b.a.a/6),A.b5(a7,A.N(q,a7,p).w.a.b/50,a7),A.b5(B.k3,A.N(q,a7,p).w.a.b/25,a7)],a0)
+b=A.a([c,A.cS(a7,a7,B.o,a7,a7,new A.cH(a7,B.eT,A.aq0(A.F(q).fx,A.N(q,a7,p).w.a.a/300),a7,a7,a7,B.cH),a7,a.a.a/6,a7,a7,a7,a7,b.a.a/6),A.b5(a7,A.N(q,a7,p).w.a.b/50,a7),A.b5(B.k3,A.N(q,a7,p).w.a.b/17,a7)],a0)
 if(!s.y){c=A.N(q,a7,p).w
 c=A.b5(A.rS(a7,B.mL,new A.aj6(s),a7,a7),a7,c.a.a/8)
 a=A.N(q,a7,p).w
@@ -83835,7 +83835,7 @@ a2=A.N(q,a7,p).w
 a1=A.cS(a7,a7,B.o,a7,a7,new A.cH(a7,B.eT,A.aq0(A.F(q).fx,A.N(q,a7,p).w.a.a/300),a7,a7,a7,B.cH),a7,a2.a.a/6,a7,a7,a7,a7,a1.a.a/6)
 a2=A.b5(a7,A.N(q,a7,p).w.a.b/50,a7)
 a3=A.N(q,a7,p).w
-a3=A.a([a,a1,a2,A.b5(A.bb(s.d,a7,a7,a7,a7,a7,a7,a7),a3.a.b/25,a7)],a0)
+a3=A.a([a,a1,a2,A.b5(A.bb(s.d,a7,a7,a7,a7,a7,a7,a7),a3.a.b/17,a7)],a0)
 if(!s.y){a=A.N(q,a7,p).w
 a=A.b5(A.rS(a7,B.mL,new A.aj8(s),a7,a7),a7,a.a.a/8)
 a1=A.N(q,a7,p).w
@@ -83847,7 +83847,7 @@ if(!s.y){e=A.N(q,a7,p).w
 f.push(A.b5(A.rS(a7,B.Ef,new A.aja(s,q),a7,a7),a7,e.a.a/8))}g.push(A.bL(f,B.D,B.v,B.A,a7))
 for(a4=0;a4<J.aM(s.x);++a4){f=A.a([A.bb(" "+A.h(J.P(J.P(s.x,a4),a8))+" : ",a7,a7,a7,a7,a7,a7,a7)],a0)
 for(a5=0;a5<J.P(J.P(s.x,a4),"pannas");++a5)f.push(A.JU(B.mH,a7,A.N(q,a7,p).w.a.a/30))
-g.push(A.bL(f,B.D,B.v,B.A,a7))}n=A.a([n,A.bL(A.a([A.aut(A.b5(A.e7(g,B.b1,B.v,B.A,B.a1),m.a.b/2.38+l.a.b/32*k+j.a.b/32*i,h.a.a/1.05))],a0),B.D,B.e4,B.A,a7),A.b5(a7,A.N(q,a7,p).w.a.b/40,a7),B.RN],a0)
+g.push(A.bL(f,B.D,B.v,B.A,a7))}n=A.a([n,A.bL(A.a([A.aut(A.b5(A.e7(g,B.b1,B.v,B.A,B.a1),m.a.b/2.2+l.a.b/32*k+j.a.b/32*i,h.a.a/1.05))],a0),B.D,B.e4,B.A,a7),A.b5(a7,A.N(q,a7,p).w.a.b/40,a7),B.RN],a0)
 for(a4=0;a4<B.c.c8(J.aM(s.r)/3);++a4){m=3*a4
 n.push(A.bL(A.a([new A.c1(A.N(q,a7,p).w.a.a/3.6,a7,A.bb(A.h(J.P(J.P(s.r,m),a8)),a7,a7,a7,a7,a7,a7,a7),a7),new A.c1(A.N(q,a7,p).w.a.a/3.6,a7,A.bb(A.h(J.P(J.P(s.r,m+1),a8)),a7,a7,a7,a7,a7,a7,a7),a7),new A.c1(A.N(q,a7,p).w.a.a/3.6,a7,A.bb(A.h(J.P(J.P(s.r,m+2),a8)),a7,a7,a7,a7,a7,a7,a7),a7)],a0),B.b1,B.e4,B.A,a7))}m=A.a([],a0)
 for(a6=0;a6<B.f.bV(J.aM(s.r),3);++a6){l=A.N(q,a7,p).w

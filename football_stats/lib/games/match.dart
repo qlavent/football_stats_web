@@ -57,7 +57,7 @@ class _MatchPageState extends State<MatchPage> {
                               Card(
                                 child: SizedBox(
                                   height: MediaQuery.of(context).size.height /
-                                          2.38 +
+                                          2.2 +
                                       MediaQuery.of(context).size.height /
                                           32 *
                                           scorers.length +
@@ -143,7 +143,7 @@ class _MatchPageState extends State<MatchPage> {
                                                         MediaQuery.of(context)
                                                                 .size
                                                                 .height /
-                                                            25,
+                                                            17,
                                                     child: const Text(
                                                         "Mvc Den Derde Helft"),
                                                   ),
@@ -281,7 +281,7 @@ class _MatchPageState extends State<MatchPage> {
                                                         MediaQuery.of(context)
                                                                 .size
                                                                 .height /
-                                                            25,
+                                                            17,
                                                     child: Text(opponent),
                                                   ),
                                                   if (!finished)
