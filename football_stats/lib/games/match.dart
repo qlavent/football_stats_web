@@ -264,7 +264,7 @@ class _MatchPageState extends State<MatchPage> {
                                                       image:
                                                           const DecorationImage(
                                                         image: AssetImage(
-                                                            "images/logo.png"),
+                                                            "images/opponent_logo.png"),
                                                         fit: BoxFit.cover,
                                                       ),
                                                     ),

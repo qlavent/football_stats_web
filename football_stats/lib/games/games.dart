@@ -142,7 +142,7 @@ class _GamesPageState extends State<GamesPage> {
                                           shape: BoxShape.circle,
                                           image: const DecorationImage(
                                             image:
-                                                AssetImage("images/logo.png"),
+                                                AssetImage("images/opponent_logo.png"),
                                             fit: BoxFit.cover,
                                           ),
                                         ),
